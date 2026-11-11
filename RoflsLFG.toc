@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: Rofls LFG Enhanced
+## Notes: Enhanced LFG Browse UI - sorts by role/class/level, shows all playstyles, adds filters
+## Author: Rofls
+## Version: 2.0
+## SavedVariables: RoflsLFGDB
+
+RoflsLFG.lua
